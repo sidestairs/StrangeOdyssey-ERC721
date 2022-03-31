@@ -10,3 +10,5 @@ artifacts
 
 .secret
 .privatekey
+
+.DS_Store
